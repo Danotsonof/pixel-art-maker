@@ -47,7 +47,7 @@ input[type="number"] {
 table,
 tr,
 td {
-    border: None;
+    border: 0;
 }
 
 table {
